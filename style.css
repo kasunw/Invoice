@@ -1,0 +1,124 @@
+#main{
+	background-image:url(images/bg.jpg);
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#main1{
+	background-color:#FF0000;
+	opacity:0.5;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#head{
+	background-image:url(images/a.png);
+	width:800px;
+	height:60px;
+	margin-left:auto;
+	margin-right:auto;
+    
+}
+
+#foot{
+	background-image:url(images/footer.jpg);
+	width:800px;
+	height:60px;
+	margin-left:auto;
+	margin-right:auto;
+    
+}
+
+#invoice{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+	height: auto;
+    
+}
+	
+#invoice1{
+	width:600px;
+	margin-bottom:30px;
+}
+
+#invoice2{
+	width:600px;
+	margin-bottom:30px;
+}
+
+#invoice3{
+	width:600px;
+	margin-top: 20px;
+}
+
+#invoiceheading{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:800;
+	height:50px;
+	width:600px;
+	padding-top:20px;
+}
+	
+.invoicedetails{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:30px;
+	width:600px;
+	
+}
+
+.invoicedetails1{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:30px;
+	width:600px;
+	margin-top: 20px;
+	
+}
+
+.invoicedin1{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	float:left;
+	height:30px;
+	width:200px;
+}
+
+.invoicedin2{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	float:left;
+	height:30px;
+	width:400px;
+}
+
+#invoicenote{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	width:600px;
+	height:30px;
+	
+	
+	}	
+	
+.item{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	float:left;
+	height:30px;
+	width:300px;
+}
+
+.itemdetails{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	float:left;
+	height:30px;
+	width:100px;
+	text-align:right;
+}
+
+		
